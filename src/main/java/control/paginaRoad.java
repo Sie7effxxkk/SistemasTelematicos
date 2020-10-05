@@ -31,6 +31,14 @@ public class paginaRoad {
 
     }
 
+    
+    
+    
+    
+    public String consultaporAndresElrico(){
+        return null;
+    
+    }
 }
 
 
